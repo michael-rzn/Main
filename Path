@@ -1,0 +1,41 @@
+COMPUTERNAME                   DESKTOP-3B4GHK0
+DriverData                     C:\Windows\System32\Drivers\DriverData
+HOMEPATH                       \Users\Local Admin
+LOCALAPPDATA                   C:\Users\Local Admin\AppData\Local
+PSModulePath                   C:\Users\Local Admin\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowe...
+PROCESSOR_ARCHITECTURE         AMD64
+CommonProgramW6432             C:\Program Files\Common Files
+CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+ProgramFiles(x86)              C:\Program Files (x86)
+PROCESSOR_LEVEL                6
+WSLENV                         WT_SESSION::WT_PROFILE_ID
+LOGONSERVER                    \\DESKTOP-3B4GHK0
+PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+CompanyUri                     https://internal.contoso.com
+SystemRoot                     C:\Windows
+ALLUSERSPROFILE                C:\ProgramData
+WT_SESSION                     4fc123e5-ccad-44c5-970e-cf6aa1c273a4
+HOMEDRIVE                      C:
+APPDATA                        C:\Users\Local Admin\AppData\Roaming
+Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPo...
+USERNAME                       Local Admin
+OneDrive                       C:\Users\Local Admin\OneDrive
+USERPROFILE                    C:\Users\Local Admin
+CommonProgramFiles             C:\Program Files\Common Files
+OS                             Windows_NT
+USERDOMAIN_ROAMINGPROFILE      DESKTOP-3B4GHK0
+PROCESSOR_IDENTIFIER           Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+ComSpec                        C:\Windows\system32\cmd.exe
+USERDOMAIN                     DESKTOP-3B4GHK0
+SystemDrive                    C:
+TEMP                           C:\Users\LOCALA~1\AppData\Local\Temp
+ProgramFiles                   C:\Program Files
+NUMBER_OF_PROCESSORS           10
+WT_PROFILE_ID                  {61c54bbd-c2c6-5271-96e7-009a87ff44bf}
+TMP                            C:\Users\LOCALA~1\AppData\Local\Temp
+ProgramData                    C:\ProgramData
+ProgramW6432                   C:\Program Files
+windir                         C:\Windows
+PROCESSOR_REVISION             9a04
+PUBLIC                         C:\Users\Public
+ZES_ENABLE_SYSMAN              1
